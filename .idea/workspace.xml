@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="570ebd01-068c-43c0-b058-5bda470c5f70" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/BrowserFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/LoginTestSpree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/Helper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/ConfigDataProvider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1013#1014#0" expanded="true" />
+                <element signature="e#1099#1100#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/ExcelDataProvider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="31" column="76" selection-start-line="31" selection-start-column="76" selection-end-line="31" selection-end-column="76" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/BaseClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="429">
+              <caret line="52" column="20" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/testng.xml" />
+        <option value="$PROJECT_DIR$/TESTNG_XMLFiles/testng.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/ExcelDataProvider.java" />
+        <option value="$PROJECT_DIR$/src/Config/config.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/BrowserFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/learnSelenium/pages/LoginPage.java" />
+        <option value="$PROJECT_DIR$/Resources/Confi.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/ConfigDataProvider.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/LoginTestSpree.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/Helper.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/BaseClass.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1014" />
+    <option name="y" value="10" />
+    <option name="width" value="958" />
+    <option name="height" value="996" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ProjectDoneWith_Mukesh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectDoneWith_Mukesh" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectDoneWith_Mukesh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectDoneWith_Mukesh" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectDoneWith_Mukesh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectDoneWith_Mukesh" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Reports" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectDoneWith_Mukesh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectDoneWith_Mukesh" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ScreenShots" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectDoneWith_Mukesh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectDoneWith_Mukesh" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectDoneWith_Mukesh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectDoneWith_Mukesh" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectDoneWith_Mukesh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectDoneWith_Mukesh" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectDoneWith_Mukesh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectDoneWith_Mukesh" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com.learnSelenium.utilities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjectDoneWith_Mukesh" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjectDoneWith_Mukesh" type="462c0819:PsiDirectoryNode" />
+              <item name="TESTNG_XMLFiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\fyesm\Desktop\Protech\Accessibility\CostcoTest\ProjectDoneWith_Mukesh\TESTNG_XMLFiles" />
+      <recent name="C:\Users\fyesm\Desktop\Protech\Accessibility\CostcoTest\ProjectDoneWith_Mukesh" />
+      <recent name="C:\Users\fyesm\Desktop\Protech\Accessibility\CostcoTest\ProjectDoneWith_Mukesh\src\test\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/fyesm/Desktop/Protech/Accessibility/CostcoTest/ProjectDoneWith_Mukesh/TESTNG_XMLFiles/testng.xml">
+    <configuration name="C:/Users/fyesm/Desktop/Protech/Accessibility/CostcoTest/ProjectDoneWith_Mukesh/TESTNG_XMLFiles/testng.xml" type="TestNG" nameIsGenerated="true">
+      <module name="ProjectDoneWith_Mukesh" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/TESTNG_XMLFiles/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners>
+        <listener class="org.testng.reporters.EmailableReporter" />
+        <listener class="org.testng.reporters.FailedReporter" />
+      </listeners>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/fyesm/.IdeaIC2019.1/system/temp-testng-customsuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjectDoneWith_Mukesh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learnSelenium.utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="$USER_HOME$/.IdeaIC2019.1/system/temp-testng-customsuite.xml" />
+      <option name="PACKAGE_NAME" value="com.learnSelenium.utilities" />
+      <option name="MAIN_CLASS_NAME" value="com.learnSelenium.utilities.LoginTestSpree" />
+      <option name="METHOD_NAME" value="loginSpree" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTestSpree" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjectDoneWith_Mukesh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learnSelenium.utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.learnSelenium.utilities" />
+      <option name="MAIN_CLASS_NAME" value="com.learnSelenium.utilities.LoginTestSpree" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTestSpree.loginSpree" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjectDoneWith_Mukesh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learnSelenium.utilities.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.learnSelenium.utilities" />
+      <option name="MAIN_CLASS_NAME" value="com.learnSelenium.utilities.LoginTestSpree" />
+      <option name="METHOD_NAME" value="loginSpree" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ProjectDoneWith_Mukesh" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Users/fyesm/Desktop/Protech/Accessibility/CostcoTest/ProjectDoneWith_Mukesh/TESTNG_XMLFiles/testng.xml" />
+      <item itemvalue="TestNG.&lt;default&gt;" />
+      <item itemvalue="TestNG.C:/Users/fyesm/.IdeaIC2019.1/system/temp-testng-customsuite.xml" />
+      <item itemvalue="TestNG.LoginTestSpree" />
+      <item itemvalue="TestNG.LoginTestSpree.loginSpree" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.LoginTestSpree.loginSpree" />
+        <item itemvalue="TestNG.&lt;default&gt;" />
+        <item itemvalue="TestNG.C:/Users/fyesm/.IdeaIC2019.1/system/temp-testng-customsuite.xml" />
+        <item itemvalue="TestNG.LoginTestSpree" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="570ebd01-068c-43c0-b058-5bda470c5f70" name="Default Changelist" comment="" />
+      <created>1591940601678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591940601678</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="C__Users_fyesm_Desktop_Protech_Accessibility_CostcoTest_ProjectDoneWith_Mukesh_TESTNG_XMLFiles_testng_xml - 2020.06.15 at 00h 36m 46s.xml">
+      <configuration name="C:/Users/fyesm/Desktop/Protech/Accessibility/CostcoTest/ProjectDoneWith_Mukesh/TESTNG_XMLFiles/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_fyesm_Desktop_Protech_Accessibility_CostcoTest_ProjectDoneWith_Mukesh_TESTNG_XMLFiles_testng_xml - 2020.06.15 at 00h 49m 42s.xml">
+      <configuration name="C:/Users/fyesm/Desktop/Protech/Accessibility/CostcoTest/ProjectDoneWith_Mukesh/TESTNG_XMLFiles/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_fyesm_Desktop_Protech_Accessibility_CostcoTest_ProjectDoneWith_Mukesh_TESTNG_XMLFiles_testng_xml - 2020.06.15 at 00h 54m 46s.xml">
+      <configuration name="C:/Users/fyesm/Desktop/Protech/Accessibility/CostcoTest/ProjectDoneWith_Mukesh/TESTNG_XMLFiles/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_fyesm_Desktop_Protech_Accessibility_CostcoTest_ProjectDoneWith_Mukesh_TESTNG_XMLFiles_testng_xml - 2020.06.15 at 00h 55m 04s.xml">
+      <configuration name="C:/Users/fyesm/Desktop/Protech/Accessibility/CostcoTest/ProjectDoneWith_Mukesh/TESTNG_XMLFiles/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_fyesm_Desktop_Protech_Accessibility_CostcoTest_ProjectDoneWith_Mukesh_TESTNG_XMLFiles_testng_xml - 2020.06.15 at 00h 55m 19s.xml">
+      <configuration name="C:/Users/fyesm/Desktop/Protech/Accessibility/CostcoTest/ProjectDoneWith_Mukesh/TESTNG_XMLFiles/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_fyesm_Desktop_Protech_Accessibility_CostcoTest_ProjectDoneWith_Mukesh_TESTNG_XMLFiles_testng_xml - 2020.06.15 at 00h 57m 30s.xml">
+      <configuration name="C:/Users/fyesm/Desktop/Protech/Accessibility/CostcoTest/ProjectDoneWith_Mukesh/TESTNG_XMLFiles/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="LoginTestSpree_loginSpree - 2020.06.15 at 00h 57m 57s.xml">
+      <configuration name="LoginTestSpree.loginSpree" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_fyesm_Desktop_Protech_Accessibility_CostcoTest_ProjectDoneWith_Mukesh_TESTNG_XMLFiles_testng_xml - 2020.06.15 at 00h 59m 53s.xml">
+      <configuration name="C:/Users/fyesm/Desktop/Protech/Accessibility/CostcoTest/ProjectDoneWith_Mukesh/TESTNG_XMLFiles/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_fyesm_Desktop_Protech_Accessibility_CostcoTest_ProjectDoneWith_Mukesh_TESTNG_XMLFiles_testng_xml - 2020.06.15 at 01h 01m 38s.xml">
+      <configuration name="C:/Users/fyesm/Desktop/Protech/Accessibility/CostcoTest/ProjectDoneWith_Mukesh/TESTNG_XMLFiles/testng.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_fyesm_Desktop_Protech_Accessibility_CostcoTest_ProjectDoneWith_Mukesh_TESTNG_XMLFiles_testng_xml - 2020.06.15 at 02h 45m 44s.xml">
+      <configuration name="C:/Users/fyesm/Desktop/Protech/Accessibility/CostcoTest/ProjectDoneWith_Mukesh/TESTNG_XMLFiles/testng.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1014" y="10" width="958" height="996" extended-state="0" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.38641426" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32908458" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.20857474" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.5179606" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.21436848" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2150139" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32908458" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.20857474" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.3244496" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.21436848" />
+      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/learnSelenium/pages/LoginPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Config/config.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Confi.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Reports/report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="222" column="18" lean-forward="true" selection-start-line="222" selection-start-column="18" selection-end-line="222" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ScreenShots/_06_14_2020 03_03_19.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ScreenShots/_06_14_2020 05_40_00.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ScreenShots/_06_14_2020 05_36_31.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/BrowserFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ScreenShots/_06_14_2020 15_18_55.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/ExcelDataProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="31" column="76" selection-start-line="31" selection-start-column="76" selection-end-line="31" selection-end-column="76" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/ConfigDataProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1013#1014#0" expanded="true" />
+            <element signature="e#1099#1100#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/Helper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ScreenShots/_06_14_2020 15_49_13.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ScreenShots/failTest.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/BaseClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="52" column="20" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProjectDoneWith_Mukesh.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ScreenShots/_06_15_2020 01_01_37.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TESTNG_XMLFiles/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/LoginTestSpree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

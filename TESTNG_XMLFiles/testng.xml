@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/fyesm/Desktop/Protech/Accessibility/CostcoTest/ProjectDoneWith_Mukesh/src/test/java/com.learnSelenium.utilities/LoginTestSpree.java">
+        <classes>
+            <class name="com.learnSelenium.utilities.LoginTestSpree">
+                <methods>
+                    <include name="loginSpree"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
