@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="570ebd01-068c-43c0-b058-5bda470c5f70" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Solving_HackerRank/Java_If_Else.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Solving_HackerRank/Java_StdInAndStdOutput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Solving_HackerRank/Problem_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Solving_HackerRank/Test_Inheritance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Reports/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/Reports/report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/BaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/learnSelenium/utilities/BaseClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/learnSelenium/utilities/BaseClass.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-output/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -26,31 +23,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Config/config.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/Helper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/ConfigDataProvider.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="780">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="380">
+              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#959#960#0" expanded="true" />
@@ -65,20 +41,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/ExcelDataProvider.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="31" column="76" selection-start-line="31" selection-start-column="76" selection-end-line="31" selection-end-column="76" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/BaseClass.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+            <state relative-caret-position="420">
+              <caret line="26" column="62" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -87,10 +51,62 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Solving_HackerRank/Test_Inheritance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1840">
-              <caret line="92" column="42" selection-start-line="92" selection-start-column="42" selection-end-line="92" selection-end-column="42" />
+            <state relative-caret-position="500">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Solving_HackerRank/AbstractDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Solving_HackerRank/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+              <folding>
+                <element signature="e#102#103#0" expanded="true" />
+                <element signature="e#153#154#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Solving_HackerRank/ThreadDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="520">
+              <caret line="26" column="16" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="29" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Solving_HackerRank/Creating_Pyramid.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/BaseClass.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -98,8 +114,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/learnSelenium/pages/LoginPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+            <state relative-caret-position="160">
+              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -142,7 +158,6 @@
         <option value="$PROJECT_DIR$/Resources/Confi.properties" />
         <option value="$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/ConfigDataProvider.java" />
         <option value="$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/Helper.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/BaseClass.java" />
         <option value="$PROJECT_DIR$/src/Config/config.properties" />
         <option value="$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/LoginTestSpree.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/learnSelenium/pages/Solve_HackerRank.java" />
@@ -151,6 +166,13 @@
         <option value="$PROJECT_DIR$/src/test/java/Solving_HackerRank/Java_If_Else.java" />
         <option value="$PROJECT_DIR$/src/test/java/Solving_HackerRank/Java_StdInAndStdOutput.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/BaseClass.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Solving_HackerRank/Test_Inheritance.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Solving_HackerRank/Abstract_Demo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Solving_HackerRank/Demo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Solving_HackerRank/AbstractDemo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Solving_HackerRank/ThreadDemo.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Solving_HackerRank/Creating_Pyramid.java" />
       </list>
     </option>
   </component>
@@ -162,9 +184,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="989" />
-    <option name="y" value="95" />
-    <option name="width" value="780" />
+    <option name="x" value="790" />
+    <option name="y" value="13" />
+    <option name="width" value="1122" />
     <option name="height" value="1026" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -173,8 +195,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,13 +211,7 @@
               <item name="ProjectDoneWith_Mukesh" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProjectDoneWith_Mukesh" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Reports" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ProjectDoneWith_Mukesh" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ProjectDoneWith_Mukesh" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ScreenShots" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ProjectDoneWith_Mukesh" type="b2602c69:ProjectViewProjectNode" />
@@ -250,6 +264,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -279,9 +295,48 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/fyesm/Desktop/Protech/Accessibility/CostcoTest/ProjectDoneWith_Mukesh/TESTNG_XMLFiles/testng.xml">
-    <configuration name="Problem_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Solving_HackerRank.Problem_3" />
+  <component name="RunManager" selected="Application.Creating_Pyramid">
+    <configuration name="Creating_Pyramid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solving_HackerRank.Creating_Pyramid" />
+      <module name="ProjectDoneWith_Mukesh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Solving_HackerRank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solving_HackerRank.Demo" />
+      <module name="ProjectDoneWith_Mukesh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Solving_HackerRank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solving_HackerRank.JavaExample" />
+      <module name="ProjectDoneWith_Mukesh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Solving_HackerRank.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solving_HackerRank.ThreadDemo" />
       <module name="ProjectDoneWith_Mukesh" />
       <extension name="coverage">
         <pattern>
@@ -313,25 +368,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C:/Users/fyesm/.IdeaIC2019.1/system/temp-testng-customsuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ProjectDoneWith_Mukesh" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.learnSelenium.utilities.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SUITE_NAME" value="$USER_HOME$/.IdeaIC2019.1/system/temp-testng-customsuite.xml" />
-      <option name="PACKAGE_NAME" value="com.learnSelenium.utilities" />
-      <option name="MAIN_CLASS_NAME" value="com.learnSelenium.utilities.LoginTestSpree" />
-      <option name="METHOD_NAME" value="loginSpree" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="LoginTestSpree" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ProjectDoneWith_Mukesh" />
       <extension name="coverage">
@@ -349,49 +385,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginTestSpree.loginSpree" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ProjectDoneWith_Mukesh" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.learnSelenium.utilities.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.learnSelenium.utilities" />
-      <option name="MAIN_CLASS_NAME" value="com.learnSelenium.utilities.LoginTestSpree" />
-      <option name="METHOD_NAME" value="loginSpree" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="ProjectDoneWith_Mukesh" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="PACKAGE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Problem_3" />
+      <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.JavaExample" />
       <item itemvalue="TestNG.C:/Users/fyesm/Desktop/Protech/Accessibility/CostcoTest/ProjectDoneWith_Mukesh/TESTNG_XMLFiles/testng.xml" />
-      <item itemvalue="TestNG.C:/Users/fyesm/.IdeaIC2019.1/system/temp-testng-customsuite.xml" />
       <item itemvalue="TestNG.LoginTestSpree" />
-      <item itemvalue="TestNG.LoginTestSpree.loginSpree" />
-      <item itemvalue="TestNG.&lt;default&gt;" />
+      <item itemvalue="Application.ThreadDemo" />
+      <item itemvalue="Application.Creating_Pyramid" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Creating_Pyramid" />
+        <item itemvalue="Application.ThreadDemo" />
+        <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.JavaExample" />
         <item itemvalue="TestNG.LoginTestSpree" />
-        <item itemvalue="Application.Problem_3" />
-        <item itemvalue="TestNG.LoginTestSpree.loginSpree" />
-        <item itemvalue="TestNG.&lt;default&gt;" />
-        <item itemvalue="TestNG.C:/Users/fyesm/.IdeaIC2019.1/system/temp-testng-customsuite.xml" />
       </list>
     </recent_temporary>
   </component>
@@ -409,9 +417,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_fyesm_Desktop_Protech_Accessibility_CostcoTest_ProjectDoneWith_Mukesh_TESTNG_XMLFiles_testng_xml - 2020.06.15 at 00h 55m 19s.xml">
-      <configuration name="C:/Users/fyesm/Desktop/Protech/Accessibility/CostcoTest/ProjectDoneWith_Mukesh/TESTNG_XMLFiles/testng.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="C__Users_fyesm_Desktop_Protech_Accessibility_CostcoTest_ProjectDoneWith_Mukesh_TESTNG_XMLFiles_testng_xml - 2020.06.15 at 00h 57m 30s.xml">
       <configuration name="C:/Users/fyesm/Desktop/Protech/Accessibility/CostcoTest/ProjectDoneWith_Mukesh/TESTNG_XMLFiles/testng.xml" configurationId="TestNG" />
     </history-entry>
@@ -439,9 +444,12 @@
     <history-entry file="C__Users_fyesm_Desktop_Protech_Accessibility_CostcoTest_ProjectDoneWith_Mukesh_TESTNG_XMLFiles_testng_xml - 2020.06.24 at 22h 53m 39s.xml">
       <configuration name="C:/Users/fyesm/Desktop/Protech/Accessibility/CostcoTest/ProjectDoneWith_Mukesh/TESTNG_XMLFiles/testng.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="C__Users_fyesm_Desktop_Protech_Accessibility_CostcoTest_ProjectDoneWith_Mukesh_TESTNG_XMLFiles_testng_xml - 2020.06.27 at 04h 30m 48s.xml">
+      <configuration name="C:/Users/fyesm/Desktop/Protech/Accessibility/CostcoTest/ProjectDoneWith_Mukesh/TESTNG_XMLFiles/testng.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="989" y="95" width="780" height="1026" extended-state="0" />
+    <frame x="790" y="13" width="1122" height="1026" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -449,7 +457,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.30555555" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24293785" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.060470324" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -457,7 +465,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.11422172" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.33370662" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.21436848" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -477,15 +485,15 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.19873318" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.3415493" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.0660502" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.060470324" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="2" weight="0.2062893" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.5699888" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.19748427" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.11422172" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.21436848" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -568,6 +576,13 @@
     <entry file="file://$PROJECT_DIR$/src/ScreenShots/_06_15_2020 02_45_42.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Config/config.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -577,8 +592,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/Helper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
+        <state relative-caret-position="300">
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -587,8 +602,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/ConfigDataProvider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        <state relative-caret-position="380">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#959#960#0" expanded="true" />
@@ -601,25 +616,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/ExcelDataProvider.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="31" column="76" selection-start-line="31" selection-start-column="76" selection-end-line="31" selection-end-column="76" />
+        <state relative-caret-position="420">
+          <caret line="26" column="62" selection-start-line="26" selection-start-column="62" selection-end-line="26" selection-end-column="62" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Solving_HackerRank/Test_Inheritance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1840">
-          <caret line="92" column="42" selection-start-line="92" selection-start-column="42" selection-end-line="92" selection-end-column="42" />
+        <state relative-caret-position="500">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Solving_HackerRank/AbstractDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/BaseClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/learnSelenium/pages/LoginPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        <state relative-caret-position="160">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -636,13 +668,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com.learnSelenium.utilities/BaseClass.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Solving_HackerRank/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        <state relative-caret-position="400">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#153#154#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Solving_HackerRank/ThreadDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="26" column="16" lean-forward="true" selection-start-line="24" selection-start-column="8" selection-end-line="29" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Solving_HackerRank/Creating_Pyramid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
         </state>
       </provider>
     </entry>

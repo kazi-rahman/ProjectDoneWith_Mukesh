@@ -23,9 +23,9 @@ public class BaseClass {
     public void setUpSuite() {
         excel = new ExcelDataProvider();
         conf = new ConfigDataProvider();
-        ExtentHtmlReporter extent= new ExtentHtmlReporter(new File("src/Reports/report.html"));
+        ExtentHtmlReporter extent = new ExtentHtmlReporter(new File("src/Reports/report.html"));
 
-        reports= new ExtentReports();
+        reports = new ExtentReports();
         reports.attachReporter(extent);
 
     }
@@ -33,8 +33,8 @@ public class BaseClass {
 
     @BeforeClass
     public void setup() {
-      //driver = BrowserFactory.startApplication(driver , conf.getBrowserFromConfig(), conf.getURLFromConfig());
-       driver= BrowserFactory.startApplication(driver,"chrome", "http://spree.shiftedtech.com/");
+        //driver = BrowserFactory.startApplication(driver , conf.getBrowserFromConfig(), conf.getURLFromConfig());
+        driver = BrowserFactory.startApplication(driver, "chrome", "http://spree.shiftedtech.com/");
 
     }
 
@@ -46,17 +46,14 @@ public class BaseClass {
 
     @AfterMethod
     public void tearDownMethod(ITestResult result) throws IOException {
-        if (result.getStatus()==ITestResult.FAILURE){
+        if (result.getStatus() == ITestResult.FAILURE) {
             logger.fail("Test failed", MediaEntityBuilder.createScreenCaptureFromPath(Helper.captureScreenShot(driver)).build());
-        }
-        else if(result.getStatus()==ITestResult.SUCCESS){
+        } else if (result.getStatus() == ITestResult.SUCCESS) {
             logger.pass("Test passed", MediaEntityBuilder.createScreenCaptureFromPath(Helper.captureScreenShot(driver)).build());
         }
 
         reports.flush();
     }
-
-
 
 
 }
